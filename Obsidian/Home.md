@@ -75,6 +75,8 @@
 - [[campaign/Hidden Truths|Hidden Truths (DM Only)]]
 - [[campaign/Adventure Frameworks|Adventure Frameworks]]
 
+### [[session_notes/Overview|Player Session Notes]]
+
 ---
 
 ## Setting at a Glance
