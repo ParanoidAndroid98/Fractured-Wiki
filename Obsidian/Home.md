@@ -76,7 +76,11 @@
 - [[campaign/Adventure Frameworks|Adventure Frameworks]]
 
 ### [[session_notes/Overview|Player Session Notes]]
-
+- [[session_notes/1a. Introduction|1a. Introduction]]
+- [[session_notes/1b. Followers of the Bakujira|1b. Followers of the Bakujira]]
+- [[session_notes/1c. Root and Lantern|1c. Root and Lantern]]
+- [[session_notes/1d. Searching for answers|1d. Searching for answers]]
+- [[session_notes/1e. Pastries Please|Latest]]
 ---
 
 ## Setting at a Glance
